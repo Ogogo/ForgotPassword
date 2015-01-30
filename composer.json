@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": ">=5.3.3",
-        "ogogo/mailservice": "1.0",
+        "ogogo/mailservice": "*",
         "zendframework/zendframework": "2.*",
         "zf-commons/zfc-base": "0.*",
         "zf-commons/zfc-user": "0.*"
