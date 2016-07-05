@@ -19,7 +19,7 @@
         "ogogo/mailservice": "*",
         "zendframework/zendframework": "2.*",
         "zf-commons/zfc-base": "0.*",
-        "zf-commons/zfc-user": "1.4.*"
+        "zf-commons/zfc-user": "1.x-dev"
     },
     "autoload": {
         "psr-0": {
